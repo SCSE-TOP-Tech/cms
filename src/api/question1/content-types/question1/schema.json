@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "question1s",
+  "info": {
+    "singularName": "question1",
+    "pluralName": "question1s",
+    "displayName": "Question1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "FAQ1": {
+      "type": "string"
+    }
+  }
+}
