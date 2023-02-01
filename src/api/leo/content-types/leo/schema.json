@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "leos",
+  "info": {
+    "singularName": "leo",
+    "pluralName": "leos",
+    "displayName": "Leo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "point": {
+      "type": "integer"
+    }
+  }
+}

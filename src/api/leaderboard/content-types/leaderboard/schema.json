@@ -1,0 +1,36 @@
+{
+  "kind": "collectionType",
+  "collectionName": "leaderboards",
+  "info": {
+    "singularName": "leaderboard",
+    "pluralName": "leaderboards",
+    "displayName": "leaderboard"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "first": {
+      "type": "enumeration",
+      "enum": [
+        "Andromeda",
+        "Leo"
+      ]
+    },
+    "second": {
+      "type": "enumeration",
+      "enum": [
+        "Andromeda",
+        "Leo"
+      ]
+    },
+    "third": {
+      "type": "enumeration",
+      "enum": [
+        "Andromeda",
+        "Leo"
+      ]
+    }
+  }
+}
